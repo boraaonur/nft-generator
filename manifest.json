@@ -1,0 +1,10 @@
+{
+  "name": "NFT Generator Plugin",
+  "id": "127768716022696522312",
+  "api": "1.0.0",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "main": "plugin/dist/main.js",
+  "ui": "ui/dist/index.html",
+  "editorType": ["figma", "figjam"]
+}

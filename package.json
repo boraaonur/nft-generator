@@ -1,0 +1,12 @@
+{
+  "name": "nft-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "build-plugin": "cd plugin && npm run build",
+    "build-ui": "cd ui && npm run build",
+    "build": "npm run build-plugin && npm run build-ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
